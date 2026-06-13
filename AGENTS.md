@@ -1,4 +1,4 @@
-# gitignore
+# Gitignore
 
 A collection of useful `.gitignore` templates for various languages and frameworks.
 
