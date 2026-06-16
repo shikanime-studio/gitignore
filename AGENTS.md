@@ -1,13 +1,16 @@
 # Gitignore
 
-A collection of useful `.gitignore` templates for various languages and frameworks.
+A collection of useful `.gitignore` templates for various languages, frameworks,
+and tools.
 
-**Language:** —
+**Language:** Gitignore
 
 ## Structure
 
-- Template files organized by language/tool (e.g., `Global/`, `Node.gitignore`, `Python.gitignore`)
+- Template files organized by language/tool (e.g. `Global/`, `Node.gitignore`,
+  `Python.gitignore`)
 - Each file is a standard `.gitignore` template ready to use
+- Community-maintained templates following the gitignore specification
 
 ## Commit Style
 
@@ -31,4 +34,5 @@ A collection of useful `.gitignore` templates for various languages and framewor
 - Require signed commits
 - Squash+rebase merge only
 
-*Test templates with `git check-ignore` before submitting*
+*Test templates with `git check-ignore` before submitting. Always use worktrees
+when making changes.*
